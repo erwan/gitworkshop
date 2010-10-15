@@ -1,1 +1,2 @@
-BOOM!
+
+alert("yop");
