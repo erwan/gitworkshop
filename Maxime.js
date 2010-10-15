@@ -1,0 +1,5 @@
+var Maxime = {
+  load : function() {
+    
+  }
+}
